@@ -138,11 +138,14 @@ body{
     margin:0% 3%;
     }
     .img{
-        width: 400px;
-        margin-left: 20px;
+        width: 350px;
+        margin: 20px;
     }
     .first{
         width: 400px;
+    }
+    .gamil{
+        font-size: 20px;
     }
     }
 
