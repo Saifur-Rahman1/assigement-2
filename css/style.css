@@ -35,7 +35,7 @@
 .icon{
     width: 5px;
 }
-.col{
+.back{
     background-color: #fff9f4;
 }
 .third-first{
@@ -60,9 +60,22 @@ h5{
     color: #363958;
 }
 .img{
-    width: 300px;
-    margin: 20px;
+    width: 600px;
+    margin-left: 70px;
+    margin-top:50px ;
 }
 .last-img{
-    width: 50px;
+    width: 90px;
+}
+.last-part{
+    margin-top: 80px;
+}
+p,h2{
+    text-align: justify;
+}
+.shadow{
+    box-shadow: 10px 10px 50px gray;
+    border-radius: 20px;
+    margin-top: 50px;
+    padding-right: 30px;
 }
